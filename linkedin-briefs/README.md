@@ -38,3 +38,15 @@ Photography is optional. If a post uses a photo background, it must be photoreal
 ## Hand back
 
 For each post: the PNG (and the PDF for carousels), named like the brief, for example `ben/post-01-what-us-household-staff-earn.png`. Put them in a Drive folder or commit them under `linkedin-briefs/out/` in this repo, then tell Claude Code where they are. Claude Code checks them against the brief and schedules them.
+
+## Profile first (added 20 Nov 2026)
+
+LinkedIn now shows a post to strangers whose profiles match it. When they tap the author's name, the profile must tell the same story as the post. So each post's first line carries its owner's hook, and stays in their lane:
+
+| Account | Lane | Hook the first line and the visual should echo |
+|---|---|---|
+| Morgan Richez | Wealthy families, family offices, house and estate managers who hire | Former butler and chauffeur who knows these homes from the inside |
+| Laurine Mallet | Nannies, housekeepers, butlers, chefs (candidates) | Former nanny in London who built the agency |
+| Ben Washington | Family offices, wealth managers, luxury property agents, journalists | Our own salary data on what private households pay |
+
+Press pickups never go on Morgan's or Laurine's personal accounts. They go on the company page.
