@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | Account | Ben Washington (PostEverywhere 5715) |
-| Goes live | Tue 24 Nov 2026, 14:00 UK |
+| Goes live | Fri 27 Nov 2026, 14:00 UK |
 | Format | TEXT POST |
 | Deliverable | Text only. No image needed. Nothing to design. |
 | Status | Waiting for Ben's OK |

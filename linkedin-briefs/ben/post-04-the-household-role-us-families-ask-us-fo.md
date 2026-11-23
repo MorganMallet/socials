@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | Account | Ben Washington (PostEverywhere 5715) |
-| Goes live | Wed 25 Nov 2026, 14:00 UK |
+| Goes live | Wed 2 Dec 2026, 14:00 UK |
 | Format | FLYER (single image) |
 | Deliverable | One image, 1080 x 1350 px (4:5 portrait), PNG. |
 | Status | Waiting for Ben's OK |
